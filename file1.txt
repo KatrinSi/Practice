@@ -1,3 +1,7 @@
 Hello Cornel!
 Here is my second commit
 Here is my third commit
+Hello Katya
+Hope you are having a wonderful day
+It is getting late
+Good night
